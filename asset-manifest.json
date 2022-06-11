@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3259624f.css",
-    "main.js": "/static/js/main.60476a9b.js",
+    "main.css": "/static/css/main.32a658d7.css",
+    "main.js": "/static/js/main.7bf10ccb.js",
     "static/js/787.0ad5e411.chunk.js": "/static/js/787.0ad5e411.chunk.js",
     "static/media/fangsong.ttf": "/static/media/fangsong.b26eda568e001bee6cea.ttf",
     "static/media/Alibaba-PuHuiTi-Regular.ttf": "/static/media/Alibaba-PuHuiTi-Regular.5a49861b645cd23ce502.ttf",
     "static/media/Alibaba-PuHuiTi-Light.ttf": "/static/media/Alibaba-PuHuiTi-Light.0c5432031c45b95fe079.ttf",
     "static/media/fangzhengyaoti.TTF": "/static/media/fangzhengyaoti.e1529c7e5e7b2a829298.TTF",
     "index.html": "/index.html",
-    "main.3259624f.css.map": "/static/css/main.3259624f.css.map",
-    "main.60476a9b.js.map": "/static/js/main.60476a9b.js.map",
+    "main.32a658d7.css.map": "/static/css/main.32a658d7.css.map",
+    "main.7bf10ccb.js.map": "/static/js/main.7bf10ccb.js.map",
     "787.0ad5e411.chunk.js.map": "/static/js/787.0ad5e411.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3259624f.css",
-    "static/js/main.60476a9b.js"
+    "static/css/main.32a658d7.css",
+    "static/js/main.7bf10ccb.js"
   ]
 }
