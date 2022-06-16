@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a55e435c.css",
-    "main.js": "/static/js/main.0f528889.js",
+    "main.js": "/static/js/main.cd003dc8.js",
     "static/js/787.0ad5e411.chunk.js": "/static/js/787.0ad5e411.chunk.js",
     "static/media/fangsong.ttf": "/static/media/fangsong.b26eda568e001bee6cea.ttf",
     "static/media/Alibaba-PuHuiTi-Regular.ttf": "/static/media/Alibaba-PuHuiTi-Regular.5a49861b645cd23ce502.ttf",
@@ -10,11 +10,11 @@
     "static/media/fangzhengyaoti.TTF": "/static/media/fangzhengyaoti.e1529c7e5e7b2a829298.TTF",
     "index.html": "/index.html",
     "main.a55e435c.css.map": "/static/css/main.a55e435c.css.map",
-    "main.0f528889.js.map": "/static/js/main.0f528889.js.map",
+    "main.cd003dc8.js.map": "/static/js/main.cd003dc8.js.map",
     "787.0ad5e411.chunk.js.map": "/static/js/787.0ad5e411.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a55e435c.css",
-    "static/js/main.0f528889.js"
+    "static/js/main.cd003dc8.js"
   ]
 }
